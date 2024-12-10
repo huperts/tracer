@@ -12,7 +12,7 @@
  *
  * SPDX-License-Identifier: Apache-2.0
  */
-package net.consensys.linea.plugins.continoustracing;
+package net.consensys.linea.plugins.continuoustracing;
 
 public record ContinuousTracingConfiguration(
     boolean continuousTracing, String zkEvmBin, String tracesDir) {}
