@@ -229,7 +229,7 @@
 * fix(ecAddTest): remove comment ([#1165](https://github.com/Consensys/linea-tracer/pull/1165))
 
 ## 0.6.0-rc1
-* Refactor ReplayExecutionEnviroment and ToyExecutionEnvironment ([#1159](https://github.com/Consensys/linea-tracer/pull/1159))
+* Refactor ReplayExecutionEnvironment and ToyExecutionEnvironment ([#1159](https://github.com/Consensys/linea-tracer/pull/1159))
 * chore: make spotless and checkSPDXHeader a mandatory step after compilation in order to avoid not passing through the linting process ([#1161](https://github.com/Consensys/linea-tracer/pull/1161))
 * Enable reporting in `go-corset` ([#1150](https://github.com/Consensys/linea-tracer/pull/1150)) to get more information about failing constraints.
 * Set besuVersion=24.9-delivery32 ([#1157](https://github.com/Consensys/linea-tracer/pull/1157))
