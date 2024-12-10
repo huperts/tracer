@@ -12,7 +12,7 @@
  *
  * SPDX-License-Identifier: Apache-2.0
  */
-package net.consensys.linea.plugins.continoustracing;
+package net.consensys.linea.plugins.continuoustracing;
 
 import java.io.IOException;
 import java.nio.file.Files;
